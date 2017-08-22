@@ -22,7 +22,7 @@ function depends_lr-glupen64() {
 }
 
 function sources_lr-glupen64() {
-    gitPullOrClone "$md_build" https://github.com/loganmc10/GLupeN64.git
+    gitPullOrClone "$md_build" https://github.com/loganmc10/GLideN64.git
 }
 
 function build_lr-glupen64() {
